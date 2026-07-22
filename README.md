@@ -86,6 +86,7 @@ A curated list of tools and resources for Platform Engineering.
 - [kube-bench checks whether Kubernetes security is aording to CIS K8S Benchmark](https://github.com/aquasecurity/kube-bench)
 - [Terraform Guardrails with OPA](https://compellingcloud.substack.com/p/navigating-safety-a-beginners-guide)
 - [Secure the software supply chain for OPA policies](https://github.com/opcr-io/policy)
+- [emisar](https://github.com/AndrewDryga/emisar) - A control plane for giving AI agents limited, auditable access to infrastructure operations through defined actions and policy rules.
 
 ## Tooling— Kubernetes, PAAS and Cloud services
 - [Agyn](https://github.com/agynio/platform) - Kubernetes-native agent orchestration platform with Terraform-managed configuration (agents-as-code), audit logs, and scale-to-zero execution.
