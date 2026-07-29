@@ -83,6 +83,7 @@ A curated list of tools and resources for Platform Engineering.
 - [KICS by Checkmarx- detect security vulnerabilities, compliance issues, and infrastructure misconfigurations](https://github.com/Checkmarx/kics)
 - [Semgrep security simple static analysis](https://semgrep.dev/)
 - [Checkov Policy-as-code](https://www.checkov.io/)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [kube-bench checks whether Kubernetes security is aording to CIS K8S Benchmark](https://github.com/aquasecurity/kube-bench)
 - [Terraform Guardrails with OPA](https://compellingcloud.substack.com/p/navigating-safety-a-beginners-guide)
 - [Secure the software supply chain for OPA policies](https://github.com/opcr-io/policy)
