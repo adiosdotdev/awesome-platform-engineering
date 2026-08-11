@@ -90,6 +90,7 @@ A curated list of tools and resources for Platform Engineering.
 - [emisar](https://github.com/AndrewDryga/emisar) - A control plane for giving AI agents limited, auditable access to infrastructure operations through defined actions and policy rules.
 
 ## Tooling— Kubernetes, PAAS and Cloud services
+- [Adios](https://www.adios.dev/) - AI development platform for building, previewing, and deploying applications with logs, secrets, and health checks.
 - [Agyn](https://github.com/agynio/platform) - Kubernetes-native agent orchestration platform with Terraform-managed configuration (agents-as-code), audit logs, and scale-to-zero execution.
 - [Dokku- Open source PAAS alternative to Heroku](https://dokku.com/)
 - [Crossplane- control plane framework using K8s custom resources](https://www.crossplane.io/)
